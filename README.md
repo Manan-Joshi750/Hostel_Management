@@ -3,15 +3,15 @@ A web application built using the MERN stack with Redux to efficiently manage st
 
 # 🌟 Features
 
-1. 📝 **Register/Login Screens :** Secure user authentication for students and admins.
-2. 👨‍🎓 **Student Details :** Add, edit, and view student details including room numbers and personal information.
-3. 📍 **Update Student Whereabouts :** Track and update where students are located within the hostel.
-4. 🗓️ **Daily Attendance :** Take and display daily attendance for students.
-5. 📊 **View Attendance :** View detailed attendance records for each student.
-6. 📥 **Download CSV :** Export attendance data as a CSV file for easy record-keeping.
-7. ❌ **Delete Attendance :** Remove attendance records for any previous days.
-8. 🔑 **Control User List :** Admins can edit user roles and control access.
-9. 🔒 **Admin Access :** Only admins have full control over the data and user management.
+1. **Register/Login Screens :** Secure user authentication for students and admins.
+2. **Student Details :** Add, edit, and view student details including room numbers and personal information.
+3. **Update Student Whereabouts :** Track and update where students are located within the hostel.
+4. **Daily Attendance :** Take and display daily attendance for students.
+5. **View Attendance :** View detailed attendance records for each student.
+6. **Download CSV :** Export attendance data as a CSV file for easy record-keeping.
+7. **Delete Attendance :** Remove attendance records for any previous days.
+8. **Control User List :** Admins can edit user roles and control access.
+9. **Admin Access :** Only admins have full control over the data and user management.
 
 # 🛠️ Tech Stack
 
@@ -48,6 +48,7 @@ JWT_SECRET=<Your JWT Secret>
 </pre>
 
 4️⃣ Run the Application
+
 Start the backend
 
 <pre> <code> npm start </code> </pre>
